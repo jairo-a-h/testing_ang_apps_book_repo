@@ -1,6 +1,5 @@
 ### Beyond Ready Regression Testing
 
-- **Product Name:** {product name}
 
 - [Landing page] (#landing-page-after-performing-a-search)
 - [Landing page after performing a search] (#landing-page-after-performing-a-search)
@@ -9,7 +8,15 @@
 
 ### UNIT TEST CASES
 
-| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES | | TEST PERFORMED |
-| ------------- | ---------------- | ---------- | ---------------- | ----------------- | | -------------- |
-| 0001          |                  |            |                  |                   | | [x] YES        |
+| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES | TEST PERFORMED |
+| ------------- | ---------------- | ---------- | ---------------- | ----------------- | -------------- |
+| 0001          |                  |            |                  |                   | [x] YES        |
+
+- **Landing Page:**
+- **Landing Page after performing a search:**
+
+| #   | OBJECTIVE | INPUT | EXPECTED RESULTS | OBSERVED |
+| --- | --------- | ----- | ---------------- | -------- |
+| 1   |           |       |                  |          |
+
 
