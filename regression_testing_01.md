@@ -1,22 +1,15 @@
-
-## IDENTIFICATION INFORMATION SECTION
-
-### PRODUCT
+### Beyond Ready Regression Testing
 
 - **Product Name:** {product name}
-- **Product Line Portfolio:** Insurance
 
+- [Landing page] (#landing-page-after-performing-a-search)
+- [Landing page after performing a search] (#landing-page-after-performing-a-search)
 
-
-
-- [UNIT TEST CASES]
+- [UNIT TEST CASES] (#unit-test-cases)
 
 ### UNIT TEST CASES
 
-| \#  | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLES |
-| --- | --------- | ----- | ---------------- | ----------------- |
-| 1   |  - [ ]    |       |                  |                   |
+| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES | | TEST PERFORMED |
+| ------------- | ---------------- | ---------- | ---------------- | ----------------- | | -------------- |
+| 0001          |                  |            |                  |                   | | [x] YES        |
 
-## REGRESSION TEST SECTION
-
-Ensure that previously developed and tested software still performs after change.
