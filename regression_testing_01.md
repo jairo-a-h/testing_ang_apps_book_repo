@@ -15,7 +15,7 @@
 
 | \#  | OBJECTIVE | INPUT | EXPECTED RESULTS | TEST DELIVERABLES |
 | --- | --------- | ----- | ---------------- | ----------------- |
-| 1   |           |       |                  |                   |
+| 1   |  - [ ]    |       |                  |                   |
 
 ## REGRESSION TEST SECTION
 
