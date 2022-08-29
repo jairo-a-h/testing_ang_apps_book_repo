@@ -6,11 +6,11 @@
 
 **Landing page:**
 
-| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES  | TEST PERFORMED            |
-| :-----------: | ---------------- | ---------- | ---------------- | -----------------  | :--------------:          |
-|     0001      |   Cisco logo     | Click on it|Lead to https://beyondready.cisco.com/ngap|                    | <ul><li>[x] done</li><li> |
-|     0002      |                  |            |                  |                    |       &check;           |
-|     0003      |                  |            |                  |                    |        &uncheck;          |
+| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST PERFORMED | PASS OR FAIL | COMMENTS |
+| :-----------: | ---------------- | ---------- | ---------------- | :------------: | :----------: | -------- |
+|     0001      |   Cisco logo    | Click on it |Lead to https://beyondready.cisco.com/ngap|                   | <ul><li>[x] pass</li><li>[ ] fail</li></ul> | |
+|     0002      |                  |            |                  |       &check;  | <ul><li>[x] pass</li><li>[ ] fail</li></ul> |       |
+|     0003      |                  |            |                  |                | <ul><li>[x] pass</li><li>[ ] fail</li></ul> |         |
 
  
 **Landing Page after performing a search:**
