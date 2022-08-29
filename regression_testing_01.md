@@ -6,11 +6,11 @@
 
 **Landing page:**
 
-| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST PERFORMED | PASS OR FAIL | COMMENTS |
-| :-----------: | ---------------- | ---------- | ---------------- | :------------: | :----------: | -------- |
-|     0001      |   Cisco logo    | Click on it |Lead to https://beyondready.cisco.com/ngap|                   | <ul><li>[x] pass</li><li>[ ] fail</li></ul> | |
-|     0002      |                  |            |                  |       &check;  | <ul><li>[x] pass</li><li>[ ] fail</li></ul> |       |
-|     0003      |                  |            |                  |                | <ul><li>[x] pass</li><li>[ ] fail</li></ul> |         |
+| TEST CASE ID  | TEST TITLE       | TEST STEPS | EXPECTED RESULTS | TEST PERFORMED | PASS OR FAIL | COMMENTS |
+| :-----------: | ---------------- | ---------- | ---------------- | :------------: | ------------ | -------- |
+|     0001      |   Cisco logo    | Click on it |Lead to https://beyondready.cisco.com/ngap| &check; | <ul><li>[ ] pass</li><li>[x] fail</li></ul> | It opens https://beyondready.cisco.com:8080/ngap/ - This site can’t be reached |
+|     0002      |                  |            |                  |                | <ul><li>[ ] pass</li><li>[ ] fail</li></ul> |       |
+|     0003      |                  |            |                  |                | <ul><li>[ ] pass</li><li>[ ] fail</li></ul> |         |
 
  
 **Landing Page after performing a search:**
@@ -19,14 +19,9 @@
   
   
   
-  
-  
-  
-- [ ] Done
-- [x] Done
 
   
   
-:white_check_mark:  
+<!--- :white_check_mark:   
 <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>
-<ul><li>[x] done</li><li>[ ] tobedone</li></ul>
+<ul><li>[x] done</li><li>[ ] tobedone</li></ul> --->
