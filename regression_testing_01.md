@@ -8,7 +8,7 @@
 
 | TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES | TEST PERFORMED |
 | ------------- | ---------------- | ---------- | ---------------- | ----------------- | -------------- |
-|     0001      |                  |            |                  |                   |     - [x] Yes  |
+- |     0001      |                  |            |                  |                   |     [x] Yes  |
 |     0002      |                  |            |                  |                   |                |
 |     0003      |                  |            |                  |                   |                |
 
