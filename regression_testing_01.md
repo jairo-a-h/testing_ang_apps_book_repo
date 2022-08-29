@@ -6,10 +6,10 @@
 
 **Landing page**
 
-| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES  | TEST PERFORMED   |
-| ------------- | ---------------- | ---------- | ---------------- | -----------------  | --------------   |
-|     0001      |                  |            |                  | :white_check_mark: |  <ul><li>- []    |
-|     0002      |                  |            |                  |                    | <ul><li>- [] Yes |
+| TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES  | TEST PERFORMED            |
+| ------------- | ---------------- | ---------- | ---------------- | -----------------  | --------------            |
+|     0001      |                  |            |                  | :white_check_mark: | <ul><li>[x] done</li><li> |
+|     0002      |                  |            |                  |                    |                           |
 |     0003      |                  |            |                  |                    |                  |
 
 **Landing Page after performing a search:**
