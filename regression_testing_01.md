@@ -9,7 +9,7 @@
 | TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES  | TEST PERFORMED            |
 | ------------- | ---------------- | ---------- | ---------------- | -----------------  | --------------            |
 |     0001      |                  |            |                  |                    | <ul><li>[x] done</li><li> |
-|     0002      |                  |            |                  |                    |      :-:&check;           |
+|     0002      |                  |            |                  |                    |      :-: &check;           |
 |     0003      |                  |            |                  |                    |                           |
 
  
