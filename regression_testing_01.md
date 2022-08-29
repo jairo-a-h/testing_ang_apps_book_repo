@@ -14,3 +14,4 @@
 
 - **Landing Page after performing a search:**
 
+[x] Yes
