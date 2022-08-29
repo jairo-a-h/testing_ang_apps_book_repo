@@ -8,10 +8,9 @@
 
 | TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES | TEST PERFORMED |
 | ------------- | ---------------- | ---------- | ---------------- | ----------------- | -------------- |
-|     0001      |                  |            |                  |                   |      [x] Y     |
+|     0001      |                  |            |                  |                   |     - [x] Yes  |
 |               |                  |            |                  |                   |                |
-| ------------- | ---------------- | ---------- | ---------------- | ----------------- | ---------------|
+|               |                  |            |                  |                   |                |
 
 - **Landing Page after performing a search:**
 
-[x] Yes
