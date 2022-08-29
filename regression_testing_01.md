@@ -8,17 +8,24 @@
 
 | TEST CASE ID  | TEST DESCRIPTION | TEST STEPS | EXPECTED RESULTS | TEST DELIVERABLES  | TEST PERFORMED            |
 | ------------- | ---------------- | ---------- | ---------------- | -----------------  | --------------            |
-|     0001      |                  |            |                  | :white_check_mark: | <ul><li>[x] done</li><li> |
-|     0002      |                  |            |                  |                    |                           |
-|     0003      |                  |            |                  |                    |                  |
+|     0001      |                  |            |                  |                    | <ul><li>[x] done</li><li> |
+|     0002      |                  |            |                  |                    | &check;                   |
+|     0003      |                  |            |                  |                    |                           |
 
 **Landing Page after performing a search:**
 
+
+  
+  
+  
+  
+  
+  
 - [ ] Done
 - [x] Done
 
   
   
-  
+:white_check_mark:  
 <ul><li>- [x] completed</li><li>- [ ] todo</li></ul>
 <ul><li>[x] done</li><li>[ ] tobedone</li></ul>
